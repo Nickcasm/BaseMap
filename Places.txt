@@ -1,0 +1,29 @@
+STATE_UT, City, Lat, Long
+
+Andaman and Nicobar, Port Blair, 92.7456894, 11.67197706
+
+Andhra Pradesh, Adilabad, 78.53399676, 19.66155246
+
+Andhra Pradesh, Bellampalle, 79.48284156, 19.01919744
+
+Maharashtra, Indapur, 75.00650796, 18.11581803
+
+Maharashtra, Dudhani, 76.347702, 17.36704827
+
+Maharashtra, Manadur, 77.64862824, 17.12180331
+
+Maharashtra, Goregaon, 73.29647165, 18.14700691
+
+Maharashtra, Pasthal, 72.73174284, 19.8015633
+
+Maharashtra, Mumbai, 73.04051988, 18.97936245
+
+Delhi, Delhi, 77.22063432, 28.65859029
+
+Delhi, Bawana, 77.05122372, 28.77810858
+
+Delhi, Ali Pur, 77.13889308, 28.80912969
+
+Delhi, Kanjhawala, 77.00267016, 28.6742592
+
+Delhi, Pehlad Pur Bangar, 77.05256652, 28.68235209
